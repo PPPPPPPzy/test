@@ -1,0 +1,6 @@
+ # 注释用 #
+  node_modules/
+  *.pyc
+  .env
+  build/
+  *.log
